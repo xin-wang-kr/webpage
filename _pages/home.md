@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "天津市智能产业科技 - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "天津市智能产业科技"
 sitemap: false
 permalink: /
 ---
